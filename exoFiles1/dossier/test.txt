@@ -1,0 +1,4 @@
+A
+Salut les Devs,
+Bienvenue sur OpenClassRooms !
+J'ecrit une chaine de caracteres formatee avec fprintf !
