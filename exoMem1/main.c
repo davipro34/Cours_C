@@ -1,6 +1,6 @@
 // main.c
 //
-// Program's name : exoDivers
+// Program's name : exoMem1
 //
 // Created by David Atlan on 12/06/2022
 //
